@@ -1,0 +1,4 @@
+article_id,source_type,source,published_at,retrieved_at,language,title,text,url,query_used
+news_0001,news,Reuters,2026-10-06T10:30:00Z,2026-10-06T10:35:12Z,en,Fed signals further interest rate hikes,"The Federal Reserve signaled that interest rates could remain elevated for longer as inflation continues to concern policymakers.",https://example.com/news/fed-rates,interest rates
+news_0002,news,Bloomberg,2026-10-06T12:15:00Z,2026-10-06T12:20:05Z,en,Oil prices rise amid geopolitical tensions,"Oil prices increased as renewed geopolitical tensions raised concerns about global energy supplies.",https://example.com/news/oil-geopolitics,oil geopolitical
+news_0003,news,Financial Times,2026-10-07T08:45:00Z,2026-10-07T08:50:21Z,en,Major bank reports stronger quarterly earnings,"The bank reported stronger than expected quarterly earnings, supported by higher net interest income.",https://example.com/news/bank-earnings,bank earnings

@@ -1,0 +1,8 @@
+position_id,asset_type,asset_name,sector,notional_value,currency,equity_sensitivity,interest_rate_sensitivity,credit_sensitivity,fx_sensitivity
+P001,Corporate Loan,Manufacturing Loan A,Manufacturing,20.0,INR,0.10,0.30,0.70,0.05
+P002,Corporate Loan,Technology Loan A,Technology,20.0,INR,0.15,0.25,0.65,0.10
+P003,Government Bond,Government Bond A,Government,20.0,INR,0.05,0.80,0.10,0.00
+P004,Corporate Bond,Energy Bond A,Energy,15.0,INR,0.20,0.60,0.55,0.15
+P005,Equity,Technology Equity A,Technology,10.0,INR,1.00,0.10,0.20,0.10
+P006,Equity,Banking Equity A,Banking,5.0,INR,1.00,0.20,0.30,0.05
+P007,Derivative,Financials Derivative A,Financials,10.0,INR,0.80,0.40,0.40,0.20
